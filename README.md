@@ -1,3 +1,3 @@
 # aliyundrive
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/lesnolie/aliyundrive-hroku)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/lesnolie/aliyundrive-heroku)
